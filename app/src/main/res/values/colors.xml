@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3d155f</color>
+    <color name="colorPrimaryDark">#00574b</color>
+    <color name="colorAccent">#df678c</color>
+    <color name="colorSMD">#412d44</color>
+
+
+    <color name="colorEnterText">#ef5455</color>
+    <color name="colorTextColor">#f0a07c</color>
+    <color name="colorBackground">#fbeaeb</color>
+    <color name="colorSendButton">#fad744</color>
+    <color name="colorChatLogBackground">#2b3252</color>
+
+</resources>
